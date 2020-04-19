@@ -1,0 +1,7 @@
+C:\Users\Lucas\source\repos\Passagens\Passagens\bin\Debug\Passagens.dll.config
+C:\Users\Lucas\source\repos\Passagens\Passagens\bin\Debug\Passagens.dll
+C:\Users\Lucas\source\repos\Passagens\Passagens\bin\Debug\Passagens.pdb
+C:\Users\Lucas\source\repos\Passagens\Passagens\obj\Debug\Passagens.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\Passagens\Passagens\obj\Debug\Passagens.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Passagens\Passagens\obj\Debug\Passagens.dll
+C:\Users\Lucas\source\repos\Passagens\Passagens\obj\Debug\Passagens.pdb
