@@ -1,0 +1,10 @@
+C:\Users\lucas.jose\Downloads\WCFPassagens-master\ConsumindoServico\bin\Debug\ConsumindoServico.exe.config
+C:\Users\lucas.jose\Downloads\WCFPassagens-master\ConsumindoServico\bin\Debug\ConsumindoServico.exe
+C:\Users\lucas.jose\Downloads\WCFPassagens-master\ConsumindoServico\bin\Debug\ConsumindoServico.pdb
+C:\Users\lucas.jose\Downloads\WCFPassagens-master\ConsumindoServico\obj\Debug\ConsumindoServico.csprojAssemblyReference.cache
+C:\Users\lucas.jose\Downloads\WCFPassagens-master\ConsumindoServico\obj\Debug\ConsumindoServico.Form1.resources
+C:\Users\lucas.jose\Downloads\WCFPassagens-master\ConsumindoServico\obj\Debug\ConsumindoServico.Properties.Resources.resources
+C:\Users\lucas.jose\Downloads\WCFPassagens-master\ConsumindoServico\obj\Debug\ConsumindoServico.csproj.GenerateResource.cache
+C:\Users\lucas.jose\Downloads\WCFPassagens-master\ConsumindoServico\obj\Debug\ConsumindoServico.csproj.CoreCompileInputs.cache
+C:\Users\lucas.jose\Downloads\WCFPassagens-master\ConsumindoServico\obj\Debug\ConsumindoServico.exe
+C:\Users\lucas.jose\Downloads\WCFPassagens-master\ConsumindoServico\obj\Debug\ConsumindoServico.pdb
